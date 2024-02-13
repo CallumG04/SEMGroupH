@@ -1,3 +1,6 @@
+//To do
+// add js code to complete first cities population task
+
 package org.example;
 
 // Press Shift twice to open the Search Everywhere dialog and type `show whitespaces`,
